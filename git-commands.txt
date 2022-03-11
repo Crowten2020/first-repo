@@ -1,0 +1,29 @@
+Git Commands
+git config
+Usage: git config --global user.name “[name]”
+git config --global user.name "Crowten2020"
+
+Usage: git config --global user.email “[email address]”
+git config --global user.email "lawrence.gavs@gmail.com"
+
+This command sets the author name and email address respectively to be used with your commits.
+************************
+git init
+Usage: git init [repository name]
+
+This command is used to start a new repository.
+*************************
+git clone
+Usage: git clone [url]  
+git clone https://github.com/Crowten2020/first-repo.git
+
+This command is used to obtain a repository from an existing URL.
+*************************
+git add
+Usage: git add [file]  
+git add
+This command adds a file to the staging area.
+Usage: git add *  
+git add *
+This command adds one or more to the staging area.
+*************************
